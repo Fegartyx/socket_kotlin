@@ -1,0 +1,63 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.arriyam.countersocketandroid"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:4:5-67
+11-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+12-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:5:5-78
+12-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:5:22-76
+13    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+13-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:6:5-76
+13-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:6:22-74
+14
+15    <application
+15-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:8:5-24:19
+16        android:allowBackup="true"
+16-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:9:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.6.0] C:\Users\Feri\.gradle\caches\transforms-3\bd642b8b656b37eb31a733cc093832a8\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:extractNativeLibs="false"
+20        android:icon="@mipmap/ic_launcher"
+20-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:10:9-43
+21        android:label="@string/app_name"
+21-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:11:9-41
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:12:9-54
+23        android:supportsRtl="true"
+23-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:13:9-35
+24        android:testOnly="true"
+25        android:theme="@style/Theme.CounterSocketAndroid"
+25-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:14:9-58
+26        android:usesCleartextTraffic="true" >
+26-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:15:9-44
+27        <activity
+27-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:16:9-23:20
+28            android:name="com.arriyam.countersocketandroid.MainActivity"
+28-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:16:19-47
+29            android:exported="true" >
+29-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:17:13-36
+30            <intent-filter>
+30-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:18:13-22:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:19:17-69
+31-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:19:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:21:17-77
+33-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:21:27-74
+34            </intent-filter>
+35        </activity>
+36    </application>
+37
+38</manifest>
