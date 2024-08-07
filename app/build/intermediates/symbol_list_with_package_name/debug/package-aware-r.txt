@@ -1739,7 +1739,6 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
-drawable qr_code_2_background
 drawable qr_code_background
 drawable test_custom_background
 drawable tooltip_frame_dark
@@ -2325,11 +2324,8 @@ layout text_view_with_theme_line_height
 layout text_view_without_line_height
 mipmap ic_launcher
 mipmap ic_launcher_round
-mipmap qr
 mipmap qr_code
-mipmap qr_code_2
-mipmap qr_code_2_
-mipmap qr_code_2_round
+mipmap qr_code_foreground
 mipmap qr_code_round
 plurals mtrl_badge_content_description
 string abc_action_bar_home_description

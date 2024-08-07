@@ -1,119 +1,195 @@
 [
     {
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-xxxhdpi_qr_code.webp.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-xxxhdpi\\qr_code.webp"
+    },
+    {
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\drawable_qr_code_background.xml.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\drawable\\qr_code_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
         "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-hdpi_qr_code_round.webp.flat",
         "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-hdpi/qr_code_round.webp"
     },
     {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-xxxhdpi_qr.webp.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-xxxhdpi\\qr.webp"
+    },
+    {
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-mdpi_qr.webp.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-mdpi\\qr.webp"
+    },
+    {
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-xxxhdpi_qr_code_2_.webp.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-xxxhdpi\\qr_code_2_.webp"
     },
     {
         "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-anydpi-v26_qr_code_round.xml.flat",
         "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-anydpi-v26/qr_code_round.xml"
     },
     {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-xhdpi_qr.webp.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-xhdpi/qr.webp"
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-anydpi-v26_qr_code_2.xml.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-anydpi-v26/qr_code_2.xml"
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-xxhdpi_qr_code.webp.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-xxhdpi\\qr_code.webp"
     },
     {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-mdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-xhdpi_qr_code.webp.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-xhdpi\\qr_code.webp"
     },
     {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-xhdpi_qr_code_2_round.webp.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-xhdpi\\qr_code_2_round.webp"
     },
     {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-mdpi_qr_code_2_.webp.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-mdpi/qr_code_2_.webp"
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-mdpi_qr_code_2_round.webp.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-mdpi\\qr_code_2_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-mdpi_qr_code_2.webp.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-mdpi\\qr_code_2.webp"
+    },
+    {
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-anydpi-v26_qr_code_2_round.xml.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-anydpi-v26\\qr_code_2_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\drawable\\ic_launcher_background.xml"
     },
     {
         "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-mdpi_qr_code_round.webp.flat",
         "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-mdpi/qr_code_round.webp"
     },
     {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-xxhdpi_qr_code_2_.webp.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-xxhdpi/qr_code_2_.webp"
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-xhdpi_qr_code_2_.webp.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-xhdpi\\qr_code_2_.webp"
     },
     {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-mdpi_qr_code_2_round.webp.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-mdpi/qr_code_2_round.webp"
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-pngs-16:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
         "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-mdpi_qr_code.webp.flat",
         "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-mdpi/qr_code.webp"
     },
     {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-xxhdpi_qr_code_2.webp.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-xxhdpi/qr_code_2.webp"
+        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-xxxhdpi_qr_code_foreground.webp.flat",
+        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-xxxhdpi/qr_code_foreground.webp"
     },
     {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-hdpi_qr_code_2.webp.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-hdpi/qr_code_2.webp"
+        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-xxhdpi_qr_code_foreground.webp.flat",
+        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-xxhdpi/qr_code_foreground.webp"
     },
     {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-xxxhdpi_qr_code_2_round.webp.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-xxxhdpi/qr_code_2_round.webp"
+        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-xhdpi_qr_code_foreground.webp.flat",
+        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-xhdpi/qr_code_foreground.webp"
     },
     {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-xxhdpi_qr_code_2.webp.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-xxhdpi\\qr_code_2.webp"
+    },
+    {
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-hdpi_qr_code_round.webp.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-hdpi\\qr_code_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-mdpi_qr_code.webp.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-mdpi\\qr_code.webp"
+    },
+    {
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-xxxhdpi_qr_code_2_round.webp.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-xxxhdpi\\qr_code_2_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-hdpi_qr_code_2_.webp.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-hdpi\\qr_code_2_.webp"
+    },
+    {
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
         "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/drawable_qr_code_background.xml.flat",
         "source": "com.arriyam.countersocketandroid.app-main-23:/drawable/qr_code_background.xml"
     },
     {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-mdpi_qr.webp.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-mdpi/qr.webp"
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\drawable_qr_code_2_background.xml.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\drawable\\qr_code_2_background.xml"
     },
     {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-xxhdpi_qr.webp.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-xxhdpi/qr.webp"
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-anydpi-v26_qr_code_round.xml.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-anydpi-v26\\qr_code_round.xml"
     },
     {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-xhdpi_qr_code_2_round.webp.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-xhdpi/qr_code_2_round.webp"
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-hdpi_qr_code_2_round.webp.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-hdpi\\qr_code_2_round.webp"
     },
     {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-xxxhdpi_qr_code_2.webp.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-xxxhdpi/qr_code_2.webp"
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-anydpi-v26_qr_code.xml.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-anydpi-v26\\qr_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-xhdpi_qr_code_round.webp.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-xhdpi\\qr_code_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-xhdpi_qr.webp.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-xhdpi\\qr.webp"
+    },
+    {
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-xxhdpi_qr_code_2_round.webp.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-xxhdpi\\qr_code_2_round.webp"
     },
     {
         "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-xxxhdpi_qr_code.webp.flat",
         "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-xxxhdpi/qr_code.webp"
     },
     {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-xxhdpi/ic_launcher_round.png"
-    },
-    {
         "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-xxhdpi_qr_code.webp.flat",
         "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-xxhdpi/qr_code.webp"
     },
     {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-hdpi_qr.webp.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-hdpi/qr.webp"
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-xxhdpi_qr_code_2_round.webp.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-xxhdpi/qr_code_2_round.webp"
+        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-hdpi_qr_code_foreground.webp.flat",
+        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-hdpi/qr_code_foreground.webp"
     },
     {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/drawable_qr_code_2_background.xml.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/drawable/qr_code_2_background.xml"
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-anydpi-v26_qr_code_2_round.xml.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-anydpi-v26/qr_code_2_round.xml"
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-hdpi_qr.webp.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-hdpi\\qr.webp"
+    },
+    {
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-xxhdpi_qr_code_2_.webp.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-xxhdpi\\qr_code_2_.webp"
+    },
+    {
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-mdpi_qr_code_2_.webp.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-mdpi\\qr_code_2_.webp"
     },
     {
         "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-anydpi-v26_qr_code.xml.flat",
@@ -124,16 +200,16 @@
         "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-xxhdpi/qr_code_round.webp"
     },
     {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/drawable/ic_launcher_background.xml"
-    },
-    {
         "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-xhdpi_qr_code.webp.flat",
         "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-xhdpi/qr_code.webp"
     },
     {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-xxxhdpi_qr_code_round.webp.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-xxxhdpi\\qr_code_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
         "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-hdpi_qr_code.webp.flat",
@@ -144,63 +220,63 @@
         "source": "com.arriyam.countersocketandroid.app-main-23:/layout/activity_main.xml"
     },
     {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-mdpi_qr_code_2.webp.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-mdpi/qr_code_2.webp"
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-mdpi_qr_code_round.webp.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-mdpi\\qr_code_round.webp"
     },
     {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-xhdpi_qr_code_2.webp.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-xhdpi/qr_code_2.webp"
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-anydpi-v26_qr_code_2.xml.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-anydpi-v26\\qr_code_2.xml"
     },
     {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-xxxhdpi_qr_code_2_.webp.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-xxxhdpi/qr_code_2_.webp"
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-mdpi_qr_code_foreground.webp.flat",
+        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-mdpi/qr_code_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
         "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-xhdpi_qr_code_round.webp.flat",
         "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-xhdpi/qr_code_round.webp"
     },
     {
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-hdpi_qr_code.webp.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-hdpi\\qr_code.webp"
+    },
+    {
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-xxhdpi_qr_code_round.webp.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-xxhdpi\\qr_code_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-xxhdpi_qr.webp.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-xxhdpi\\qr.webp"
+    },
+    {
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-xxxhdpi_qr_code_2.webp.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-xxxhdpi\\qr_code_2.webp"
+    },
+    {
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-hdpi_qr_code_2.webp.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-hdpi\\qr_code_2.webp"
+    },
+    {
         "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-xxxhdpi_qr_code_round.webp.flat",
         "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-xxxhdpi/qr_code_round.webp"
     },
     {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-xhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-mdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-hdpi/ic_launcher.png"
-    },
-    {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-anydpi-v26/ic_launcher.xml"
-    },
-    {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-hdpi_qr_code_2_round.webp.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-hdpi/qr_code_2_round.webp"
-    },
-    {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-xxxhdpi_qr.webp.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-xxxhdpi/qr.webp"
-    },
-    {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-hdpi_qr_code_2_.webp.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-hdpi/qr_code_2_.webp"
-    },
-    {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/mipmap-xhdpi_qr_code_2_.webp.flat",
-        "source": "com.arriyam.countersocketandroid.app-main-23:/mipmap-xhdpi/qr_code_2_.webp"
-    },
-    {
-        "merged": "com.arriyam.countersocketandroid.app-merged_res-21:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.arriyam.countersocketandroid.app-pngs-16:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-merged_res-21:\\mipmap-xhdpi_qr_code_2.webp.flat",
+        "source": "C:\\Users\\Feri\\.gradle\\daemon\\7.5\\com.arriyam.countersocketandroid.app-main-23:\\mipmap-xhdpi\\qr_code_2.webp"
     }
 ]

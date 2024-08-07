@@ -36,28 +36,27 @@
 22-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:12:9-54
 23        android:supportsRtl="true"
 23-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:13:9-35
-24        android:testOnly="true"
-25        android:theme="@style/Theme.CounterSocketAndroid"
-25-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:14:9-58
-26        android:usesCleartextTraffic="true" >
-26-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:15:9-44
-27        <activity
-27-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:16:9-23:20
-28            android:name="com.arriyam.countersocketandroid.MainActivity"
-28-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:16:19-47
-29            android:exported="true" >
-29-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:17:13-36
-30            <intent-filter>
-30-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:18:13-22:29
-31                <action android:name="android.intent.action.MAIN" />
-31-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:19:17-69
-31-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:19:25-66
-32
-33                <category android:name="android.intent.category.LAUNCHER" />
-33-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:21:17-77
-33-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:21:27-74
-34            </intent-filter>
-35        </activity>
-36    </application>
-37
-38</manifest>
+24        android:theme="@style/Theme.CounterSocketAndroid"
+24-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:14:9-58
+25        android:usesCleartextTraffic="true" >
+25-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:15:9-44
+26        <activity
+26-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:16:9-23:20
+27            android:name="com.arriyam.countersocketandroid.MainActivity"
+27-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:16:19-47
+28            android:exported="true" >
+28-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:17:13-36
+29            <intent-filter>
+29-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:18:13-22:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:19:17-69
+30-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:19:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:21:17-77
+32-->D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\src\main\AndroidManifest.xml:21:27-74
+33            </intent-filter>
+34        </activity>
+35    </application>
+36
+37</manifest>

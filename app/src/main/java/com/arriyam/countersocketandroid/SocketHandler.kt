@@ -14,13 +14,19 @@ object SocketHandler {
     @Synchronized
     fun setSocket() {
         try {
-// "http://10.0.2.2:3000" is the network your Android emulator must use to join the localhost network on your computer
-// "http://localhost:3000/" will not work
-// If you want to use your physical phone you could use the your ip address plus :3000
-// This will allow your Android Emulator and physical device at your home to connect to the server
-            val options = Options.builder().setExtraHeaders(mapOf("x-license-id" to listOf("6jorh1-G4E48f-j7YFqZ-zU32PN"), "x-user-id" to listOf("ae2b1fca515949e5d54fb22b8ed95575"))).build()
+            /**
+             * "http://10.0.2.2:3000" is the network your Android emulator must use to join the localhost network on your computer
+             * "http://localhost:3000/" will not work
+             * If you want to use your physical phone you could use the your ip address plus :3000
+             * This will allow your Android Emulator and physical device at your home to connect to the server
+             */
+            /**
+             * to set Headers in socket you can use setExtraHeaders() it needs Map inside it for the params
+             */
+            val options = Options.builder().setExtraHeaders(mapOf("x-license-id" to listOf("6jorh1-G4E48f-j7YFqZ-zU32PN"), "x-user-id" to listOf("d54d1702ad0f8326224b817c796763c9"))).build()
+
+            // TODO : Don't forget to set options inside socket()
             mSocket = IO.socket("https://socket.mri.id", options)
-//            mSocket = IO.socket("http://10.0.2.2:3000", options)
             Log.i("SocketHandler", "Socket set $mSocket")
         } catch (e: URISyntaxException) {
             Log.e("SocketHandler", "Error setting socket")

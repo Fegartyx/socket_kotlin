@@ -14,10 +14,7 @@ data class MsgInfo(
 )
 
 data class Content(
-    val id: Int,
-    val name: String,
-    val role: String,
-    val appointments: List<Appointment>
+    val id: String,
 )
 
 data class Appointment(
