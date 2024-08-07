@@ -1,0 +1,5 @@
+com.arriyam.countersocketandroid.test.app-androidTest-0 D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\build\generated\res\resValues\androidTest\debug
+com.arriyam.countersocketandroid.test.app-androidTest-1 D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\build\generated\res\rs\androidTest\debug
+com.arriyam.countersocketandroid.test.app-mergeDebugAndroidTestResources-2 D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.arriyam.countersocketandroid.test.app-mergeDebugAndroidTestResources-3 D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.arriyam.countersocketandroid.test.app-merged_res-4 D:\Project\AndroidStudio\Kotlin\CounterSocketAndroid-master\app\build\intermediates\merged_res\debugAndroidTest

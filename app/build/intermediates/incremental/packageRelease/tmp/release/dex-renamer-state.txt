@@ -1,0 +1,4 @@
+#Wed Aug 07 15:04:31 ICT 2024
+base.0=D\:\\Project\\AndroidStudio\\Kotlin\\CounterSocketAndroid-master\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
